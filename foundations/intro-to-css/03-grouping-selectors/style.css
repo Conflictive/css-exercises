@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+
+.ok {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif'
+}
+
+.ok.right {
+    background-color: yellow;
+}
+
+.ok.left {
+    color: white;
+    background-color: black;
+}
